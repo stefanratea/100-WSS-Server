@@ -1,2 +1,3 @@
 
 This was the WSS server for the 100 game. It was written with .NET 5.0 that is currently out of support.
+The ServerDataBase.txt was a placeholder for the actual sql database that was later added with Google Cloud SQL.
