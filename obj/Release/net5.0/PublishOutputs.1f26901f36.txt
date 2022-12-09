@@ -1,0 +1,7 @@
+/Users/rateastefan/Desktop/websocketserver/appsettings.Development.json
+/Users/rateastefan/Desktop/websocketserver/appsettings.json
+/Users/rateastefan/Desktop/websocketserver/WebSocketServer.dll
+/Users/rateastefan/Desktop/websocketserver/WebSocketServer.deps.json
+/Users/rateastefan/Desktop/websocketserver/WebSocketServer.runtimeconfig.json
+/Users/rateastefan/Desktop/websocketserver/WebSocketServer.pdb
+/Users/rateastefan/Desktop/websocketserver/Newtonsoft.Json.dll

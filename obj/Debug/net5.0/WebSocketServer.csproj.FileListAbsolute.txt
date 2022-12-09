@@ -1,0 +1,104 @@
+/Users/rateastefan/Desktop/MyWebSocketServer/WebSocketServer/obj/Debug/net5.0/WebSocketServer.csprojAssemblyReference.cache
+/Users/rateastefan/Desktop/MyWebSocketServer/WebSocketServer/obj/Debug/net5.0/WebSocketServer.GeneratedMSBuildEditorConfig.editorconfig
+/Users/rateastefan/Desktop/MyWebSocketServer/WebSocketServer/obj/Debug/net5.0/WebSocketServer.AssemblyInfoInputs.cache
+/Users/rateastefan/Desktop/MyWebSocketServer/WebSocketServer/obj/Debug/net5.0/WebSocketServer.AssemblyInfo.cs
+/Users/rateastefan/Desktop/MyWebSocketServer/WebSocketServer/obj/Debug/net5.0/WebSocketServer.csproj.CoreCompileInputs.cache
+/Users/rateastefan/Desktop/MyWebSocketServer/WebSocketServer/obj/Debug/net5.0/WebSocketServer.MvcApplicationPartsAssemblyInfo.cache
+/Users/rateastefan/Desktop/MyWebSocketServer/WebSocketServer/bin/Debug/net5.0/appsettings.Development.json
+/Users/rateastefan/Desktop/MyWebSocketServer/WebSocketServer/bin/Debug/net5.0/appsettings.json
+/Users/rateastefan/Desktop/MyWebSocketServer/WebSocketServer/bin/Debug/net5.0/WebSocketServer.deps.json
+/Users/rateastefan/Desktop/MyWebSocketServer/WebSocketServer/bin/Debug/net5.0/WebSocketServer.runtimeconfig.json
+/Users/rateastefan/Desktop/MyWebSocketServer/WebSocketServer/bin/Debug/net5.0/WebSocketServer.runtimeconfig.dev.json
+/Users/rateastefan/Desktop/MyWebSocketServer/WebSocketServer/bin/Debug/net5.0/WebSocketServer.dll
+/Users/rateastefan/Desktop/MyWebSocketServer/WebSocketServer/bin/Debug/net5.0/ref/WebSocketServer.dll
+/Users/rateastefan/Desktop/MyWebSocketServer/WebSocketServer/bin/Debug/net5.0/WebSocketServer.pdb
+/Users/rateastefan/Desktop/MyWebSocketServer/WebSocketServer/obj/Debug/net5.0/staticwebassets/WebSocketServer.StaticWebAssets.Manifest.cache
+/Users/rateastefan/Desktop/MyWebSocketServer/WebSocketServer/obj/Debug/net5.0/staticwebassets/WebSocketServer.StaticWebAssets.xml
+/Users/rateastefan/Desktop/MyWebSocketServer/WebSocketServer/obj/Debug/net5.0/scopedcss/bundle/WebSocketServer.styles.css
+/Users/rateastefan/Desktop/MyWebSocketServer/WebSocketServer/obj/Debug/net5.0/WebSocketServer.RazorTargetAssemblyInfo.cache
+/Users/rateastefan/Desktop/MyWebSocketServer/WebSocketServer/obj/Debug/net5.0/WebSocketServer.dll
+/Users/rateastefan/Desktop/MyWebSocketServer/WebSocketServer/obj/Debug/net5.0/ref/WebSocketServer.dll
+/Users/rateastefan/Desktop/MyWebSocketServer/WebSocketServer/obj/Debug/net5.0/WebSocketServer.pdb
+/Users/rateastefan/Desktop/MyWebSocketServer/WebSocketServer/obj/Debug/net5.0/WebSocketServer.genruntimeconfig.cache
+/Users/rateastefan/Desktop/MyWebSocketServer/WebSocketServer/bin/Debug/net5.0/Newtonsoft.Json.dll
+/Users/rateastefan/Desktop/MyWebSocketServer/WebSocketServer/obj/Debug/net5.0/WebSocketServer.csproj.CopyComplete
+/Users/rateastefan/Desktop/MyWebSocketServer/100websocketserver/bin/Debug/net5.0/appsettings.Development.json
+/Users/rateastefan/Desktop/MyWebSocketServer/100websocketserver/bin/Debug/net5.0/appsettings.json
+/Users/rateastefan/Desktop/MyWebSocketServer/100websocketserver/bin/Debug/net5.0/WebSocketServer.deps.json
+/Users/rateastefan/Desktop/MyWebSocketServer/100websocketserver/bin/Debug/net5.0/WebSocketServer.runtimeconfig.json
+/Users/rateastefan/Desktop/MyWebSocketServer/100websocketserver/bin/Debug/net5.0/WebSocketServer.runtimeconfig.dev.json
+/Users/rateastefan/Desktop/MyWebSocketServer/100websocketserver/bin/Debug/net5.0/WebSocketServer.dll
+/Users/rateastefan/Desktop/MyWebSocketServer/100websocketserver/bin/Debug/net5.0/ref/WebSocketServer.dll
+/Users/rateastefan/Desktop/MyWebSocketServer/100websocketserver/bin/Debug/net5.0/WebSocketServer.pdb
+/Users/rateastefan/Desktop/MyWebSocketServer/100websocketserver/bin/Debug/net5.0/Newtonsoft.Json.dll
+/Users/rateastefan/Desktop/MyWebSocketServer/100websocketserver/obj/Debug/net5.0/WebSocketServer.csprojAssemblyReference.cache
+/Users/rateastefan/Desktop/MyWebSocketServer/100websocketserver/obj/Debug/net5.0/WebSocketServer.GeneratedMSBuildEditorConfig.editorconfig
+/Users/rateastefan/Desktop/MyWebSocketServer/100websocketserver/obj/Debug/net5.0/WebSocketServer.AssemblyInfoInputs.cache
+/Users/rateastefan/Desktop/MyWebSocketServer/100websocketserver/obj/Debug/net5.0/WebSocketServer.AssemblyInfo.cs
+/Users/rateastefan/Desktop/MyWebSocketServer/100websocketserver/obj/Debug/net5.0/WebSocketServer.csproj.CoreCompileInputs.cache
+/Users/rateastefan/Desktop/MyWebSocketServer/100websocketserver/obj/Debug/net5.0/WebSocketServer.MvcApplicationPartsAssemblyInfo.cache
+/Users/rateastefan/Desktop/MyWebSocketServer/100websocketserver/obj/Debug/net5.0/staticwebassets/WebSocketServer.StaticWebAssets.Manifest.cache
+/Users/rateastefan/Desktop/MyWebSocketServer/100websocketserver/obj/Debug/net5.0/staticwebassets/WebSocketServer.StaticWebAssets.xml
+/Users/rateastefan/Desktop/MyWebSocketServer/100websocketserver/obj/Debug/net5.0/scopedcss/bundle/WebSocketServer.styles.css
+/Users/rateastefan/Desktop/MyWebSocketServer/100websocketserver/obj/Debug/net5.0/WebSocketServer.RazorTargetAssemblyInfo.cache
+/Users/rateastefan/Desktop/MyWebSocketServer/100websocketserver/obj/Debug/net5.0/WebSocketServer.csproj.CopyComplete
+/Users/rateastefan/Desktop/MyWebSocketServer/100websocketserver/obj/Debug/net5.0/WebSocketServer.dll
+/Users/rateastefan/Desktop/MyWebSocketServer/100websocketserver/obj/Debug/net5.0/ref/WebSocketServer.dll
+/Users/rateastefan/Desktop/MyWebSocketServer/100websocketserver/obj/Debug/net5.0/WebSocketServer.pdb
+/Users/rateastefan/Desktop/MyWebSocketServer/100websocketserver/obj/Debug/net5.0/WebSocketServer.genruntimeconfig.cache
+/Users/rateastefan/Desktop/MyWebSocketServer/100websocketserver/bin/Debug/net5.0/BouncyCastle.Crypto.dll
+/Users/rateastefan/Desktop/MyWebSocketServer/100websocketserver/bin/Debug/net5.0/Google.Protobuf.dll
+/Users/rateastefan/Desktop/MyWebSocketServer/100websocketserver/bin/Debug/net5.0/K4os.Compression.LZ4.dll
+/Users/rateastefan/Desktop/MyWebSocketServer/100websocketserver/bin/Debug/net5.0/K4os.Compression.LZ4.Streams.dll
+/Users/rateastefan/Desktop/MyWebSocketServer/100websocketserver/bin/Debug/net5.0/K4os.Hash.xxHash.dll
+/Users/rateastefan/Desktop/MyWebSocketServer/100websocketserver/bin/Debug/net5.0/MySql.Data.dll
+/Users/rateastefan/Desktop/MyWebSocketServer/100websocketserver/bin/Debug/net5.0/Ubiety.Dns.Core.dll
+/Users/rateastefan/Desktop/MyWebSocketServer/100websocketserver/bin/Debug/net5.0/Zstandard.Net.dll
+/Users/rateastefan/Desktop/MyWebSocketServer/100websocketserver/bin/Debug/net5.0/Renci.SshNet.dll
+/Users/rateastefan/Desktop/MyWebSocketServer/100websocketserver/bin/Debug/net5.0/SshNet.Security.Cryptography.dll
+/Users/rateastefan/Desktop/MyWebSocketServer/100websocketserver/bin/Debug/net5.0/System.Configuration.ConfigurationManager.dll
+/Users/rateastefan/Desktop/MyWebSocketServer/100websocketserver/bin/Debug/net5.0/System.Security.Cryptography.ProtectedData.dll
+/Users/rateastefan/Desktop/MyWebSocketServer/100websocketserver/bin/Debug/net5.0/System.Xml.XPath.XmlDocument.dll
+/Users/rateastefan/Desktop/MyWebSocketServer/100websocketserver/bin/Debug/net5.0/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+/Users/stefanratea/Documents/Server/100websocketserver/obj/Debug/net5.0/WebSocketServer.pdb
+/Users/stefanratea/Documents/Unity Projects/100 Suite/Server/100websocketserver/bin/Debug/net5.0/appsettings.Development.json
+/Users/stefanratea/Documents/Unity Projects/100 Suite/Server/100websocketserver/bin/Debug/net5.0/appsettings.json
+/Users/stefanratea/Documents/Unity Projects/100 Suite/Server/100websocketserver/bin/Debug/net5.0/WebSocketServer.StaticWebAssets.xml
+/Users/stefanratea/Documents/Unity Projects/100 Suite/Server/100websocketserver/bin/Debug/net5.0/WebSocketServer
+/Users/stefanratea/Documents/Unity Projects/100 Suite/Server/100websocketserver/bin/Debug/net5.0/WebSocketServer.deps.json
+/Users/stefanratea/Documents/Unity Projects/100 Suite/Server/100websocketserver/bin/Debug/net5.0/WebSocketServer.runtimeconfig.json
+/Users/stefanratea/Documents/Unity Projects/100 Suite/Server/100websocketserver/bin/Debug/net5.0/WebSocketServer.runtimeconfig.dev.json
+/Users/stefanratea/Documents/Unity Projects/100 Suite/Server/100websocketserver/bin/Debug/net5.0/WebSocketServer.dll
+/Users/stefanratea/Documents/Unity Projects/100 Suite/Server/100websocketserver/bin/Debug/net5.0/WebSocketServer.pdb
+/Users/stefanratea/Documents/Unity Projects/100 Suite/Server/100websocketserver/bin/Debug/net5.0/BouncyCastle.Crypto.dll
+/Users/stefanratea/Documents/Unity Projects/100 Suite/Server/100websocketserver/bin/Debug/net5.0/Google.Protobuf.dll
+/Users/stefanratea/Documents/Unity Projects/100 Suite/Server/100websocketserver/bin/Debug/net5.0/K4os.Compression.LZ4.dll
+/Users/stefanratea/Documents/Unity Projects/100 Suite/Server/100websocketserver/bin/Debug/net5.0/K4os.Compression.LZ4.Streams.dll
+/Users/stefanratea/Documents/Unity Projects/100 Suite/Server/100websocketserver/bin/Debug/net5.0/K4os.Hash.xxHash.dll
+/Users/stefanratea/Documents/Unity Projects/100 Suite/Server/100websocketserver/bin/Debug/net5.0/MySql.Data.dll
+/Users/stefanratea/Documents/Unity Projects/100 Suite/Server/100websocketserver/bin/Debug/net5.0/Ubiety.Dns.Core.dll
+/Users/stefanratea/Documents/Unity Projects/100 Suite/Server/100websocketserver/bin/Debug/net5.0/ZstdNet.dll
+/Users/stefanratea/Documents/Unity Projects/100 Suite/Server/100websocketserver/bin/Debug/net5.0/Newtonsoft.Json.dll
+/Users/stefanratea/Documents/Unity Projects/100 Suite/Server/100websocketserver/bin/Debug/net5.0/System.Configuration.ConfigurationManager.dll
+/Users/stefanratea/Documents/Unity Projects/100 Suite/Server/100websocketserver/bin/Debug/net5.0/System.Security.Cryptography.ProtectedData.dll
+/Users/stefanratea/Documents/Unity Projects/100 Suite/Server/100websocketserver/bin/Debug/net5.0/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+/Users/stefanratea/Documents/Unity Projects/100 Suite/Server/100websocketserver/obj/Debug/net5.0/WebSocketServer.csproj.AssemblyReference.cache
+/Users/stefanratea/Documents/Unity Projects/100 Suite/Server/100websocketserver/obj/Debug/net5.0/WebSocketServer.GeneratedMSBuildEditorConfig.editorconfig
+/Users/stefanratea/Documents/Unity Projects/100 Suite/Server/100websocketserver/obj/Debug/net5.0/WebSocketServer.AssemblyInfoInputs.cache
+/Users/stefanratea/Documents/Unity Projects/100 Suite/Server/100websocketserver/obj/Debug/net5.0/WebSocketServer.AssemblyInfo.cs
+/Users/stefanratea/Documents/Unity Projects/100 Suite/Server/100websocketserver/obj/Debug/net5.0/WebSocketServer.csproj.CoreCompileInputs.cache
+/Users/stefanratea/Documents/Unity Projects/100 Suite/Server/100websocketserver/obj/Debug/net5.0/WebSocketServer.MvcApplicationPartsAssemblyInfo.cache
+/Users/stefanratea/Documents/Unity Projects/100 Suite/Server/100websocketserver/obj/Debug/net5.0/scopedcss/bundle/WebSocketServer.styles.css
+/Users/stefanratea/Documents/Unity Projects/100 Suite/Server/100websocketserver/obj/Debug/net5.0/staticwebassets/WebSocketServer.StaticWebAssets.Manifest.cache
+/Users/stefanratea/Documents/Unity Projects/100 Suite/Server/100websocketserver/obj/Debug/net5.0/staticwebassets/WebSocketServer.StaticWebAssets.Pack.cache
+/Users/stefanratea/Documents/Unity Projects/100 Suite/Server/100websocketserver/obj/Debug/net5.0/staticwebassets/msbuild.WebSocketServer.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/stefanratea/Documents/Unity Projects/100 Suite/Server/100websocketserver/obj/Debug/net5.0/staticwebassets/msbuild.build.WebSocketServer.props
+/Users/stefanratea/Documents/Unity Projects/100 Suite/Server/100websocketserver/obj/Debug/net5.0/staticwebassets/msbuild.buildMultiTargeting.WebSocketServer.props
+/Users/stefanratea/Documents/Unity Projects/100 Suite/Server/100websocketserver/obj/Debug/net5.0/staticwebassets/msbuild.buildTransitive.WebSocketServer.props
+/Users/stefanratea/Documents/Unity Projects/100 Suite/Server/100websocketserver/obj/Debug/net5.0/WebSocketServer.RazorTargetAssemblyInfo.cache
+/Users/stefanratea/Documents/Unity Projects/100 Suite/Server/100websocketserver/obj/Debug/net5.0/WebSocketServer.csproj.CopyComplete
+/Users/stefanratea/Documents/Unity Projects/100 Suite/Server/100websocketserver/obj/Debug/net5.0/WebSocketServer.dll
+/Users/stefanratea/Documents/Unity Projects/100 Suite/Server/100websocketserver/obj/Debug/net5.0/refint/WebSocketServer.dll
+/Users/stefanratea/Documents/Unity Projects/100 Suite/Server/100websocketserver/obj/Debug/net5.0/WebSocketServer.pdb
+/Users/stefanratea/Documents/Unity Projects/100 Suite/Server/100websocketserver/obj/Debug/net5.0/WebSocketServer.genruntimeconfig.cache
+/Users/stefanratea/Documents/Unity Projects/100 Suite/Server/100websocketserver/obj/Debug/net5.0/ref/WebSocketServer.dll
